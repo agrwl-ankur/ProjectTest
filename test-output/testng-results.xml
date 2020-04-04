@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Completed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22049" started-at="2020-03-29T05:12:12Z" finished-at="2020-03-29T05:12:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22049" started-at="2020-03-29T05:12:12Z" finished-at="2020-03-29T05:12:34Z">
+      <class name="TestNGPractice.RobotClass">
+        <test-method status="PASS" signature="f2()[pri:0, instance:TestNGPractice.RobotClass@6646153]" name="f2" duration-ms="22010" started-at="2020-03-29T10:42:12Z" finished-at="2020-03-29T10:42:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+      </class> <!-- TestNGPractice.RobotClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
